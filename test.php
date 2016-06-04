@@ -1,6 +1,8 @@
 <?php 
 echo "heloo shivam";?>
 
+<h1>Hello World, Hello</h1>
+
  <?php
  $number = 6;                   /*number to get factorial */
  $fact   = 1;

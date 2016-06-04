@@ -1,4 +1,5 @@
-
+<?php 
+echo "heloo shivam";?>
 
  <?php
  $number = 6;                   /*number to get factorial */
